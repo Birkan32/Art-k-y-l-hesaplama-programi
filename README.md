@@ -1,2 +1,2 @@
-# Art-k-y-l-hesaplama-programi
+# Artik-yil-hesaplama-programi
 Patika Ödevi
